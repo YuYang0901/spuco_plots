@@ -1,0 +1,2 @@
+val_wg_acc,val_avg_acc,test_wg_acc,test_avg_acc,val_early_stopping_wg_acc,val_early_stopping_avg_acc,test_early_stopping_wg_acc,test_early_stopping_avg_acc,alg,timestamp,gpu,seed,root_dir,label_noise,results_csv,arch,batch_size,num_epochs,lr,weight_decay,momentum,infer_num_epochs,upsample_factor,wandb
+26.923076923076923,94.89376974608776,33.888888888888886,95.01351813845218,0.0,85.11568787222292,0.0,85.14791304571858,dfr,2024-01-25 02:10:52.476979,2,0,/data,0.0,/home/sjoshi/spuco_experiments/celeba/jtt.csv,resnet50,128,50,1e-05,0.01,0.9,1,50,False

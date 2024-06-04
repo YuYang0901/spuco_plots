@@ -1,0 +1,2 @@
+timestamp,seed,pretrained,arch,lr,weight_decay,momentum,num_epochs,batch_size,worst_group_accuracy,average_accuracy,early_stopping_worst_group_accuracy,early_stopping_average_accuracy
+2024-01-25 04:22:35.461766,0,True,resnet50,0.0001,0.1,0.9,50,128,63.69407187468005,71.73070626825786,87.22222222222223,92.22513147129398
